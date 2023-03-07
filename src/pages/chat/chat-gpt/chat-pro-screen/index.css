@@ -1,0 +1,17 @@
+.chatScreen {
+  margin-left: 0px;
+  height: 100%;
+  flex-grow: 1;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  height: calc(100vh);
+}
+
+.leftNavigationPanel {
+  display: flex;
+  max-width: 200px;
+  height: 100%;
+}
